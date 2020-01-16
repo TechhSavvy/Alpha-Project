@@ -4,9 +4,11 @@ This project is a combination of all my projects repositories accumulated togeth
 
 ## Introduction
 
-The more I learn, the bigger the "Alpha Project" will get. Also my github repositories, lol.
+The more I learn, the bigger the "Alpha Project" will get. Also my github repos.
 
-Think of turning 10, 20, even 30 small project concepts such as API, databases, framwork, authentication, all into one project.  
+API, databases, framwork, authentication, a all in one.
+
+Each asspect of the "Alpha Project" will have its own repo somewhere on my github with a decisive note folder, stating how, why I'm taking that approach, etc.  
 
 ## Purpose
 
